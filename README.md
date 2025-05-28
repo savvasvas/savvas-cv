@@ -16,46 +16,45 @@ CV in Markdown
 - Delivered cross-functional improvements and managed profitability/project reporting.
 
 ### Principal Consultant, Raxios & Co., Cyprus
-*Jun 2020 - Aug 2022
+*Jun 2020 - Aug 2022*
 - Designed and applied scalable growth models and operational frameworks to improve client efficiency, profitability and long-term sustainability.
 - Guided venture development and transformation projects across various startup stages; supporting MVP launch and company formation (Mevian), driving Series A growth and operational strategy (Mousarris), and managing scale-up and financial transformation for an established entity (IFC Investments).
 
 ### Co-Founder / Business Consultant, Raxios & Co., Cyprus
-*Oct 2018 - Jun 2020
+*Oct 2018 - Jun 2020*
 - Built a boutique consulting firm for SMEs focused on digital and business transformation initiatives and advised founders on refining business models and managing change.
 
 ### Operations Manager, Digital Services & Insights, Digital Tree e-Publishers, Cyprus
-*Sep 2018 - Jun 2020
+*Sep 2018 - Jun 2020*
 - Led systems optimization and tech integration efforts to enhance day-to-day operations and visibility into performance metrics for marketing, creative and development teams.
 
 ### Business Performance & Innovation Manager, OW Digital Marketing Agency, Cyprus
-*Jun 2018 – Jun 2020
+*Jun 2018 – Jun 2020*
 - Implemented analytics systems and agile workflows; contributed to company acquisition by Digital Tree.
 - Developed internal PlayBook and knowledge tools for innovation consistency.
 
 ### Strategic Finance Analyst, Media, DeLeMa McCann, Cyprus
-*Aug 2017 – Jun 2018
+*Aug 2017 – Jun 2018*
 - Built media investment models and worked cross-functionally to track campaign ROI and client finance.
 
 ### Strategy Analyst / Associate, Delfi Partners & Co., Cyprus & Greece
-2016 – 2017
+*2016 – 2017*
 - Supported real estate and corporate restructuring advisory, asset sales, and due diligence for tourism and banking clients.
 
 ### Corporate Arrears Officer, Alpha Bank, Cyprus
-*2014 – 2016
+*2014 – 2016*
 - Handled distressed portfolios and structured repayment strategies.
 
 ### Relationship Officer – SME & Business Development, Alpha Bank, Cyprus
-*2010 – 2014
+*2010 – 2014*
 - Managed SME clients and evaluated business sustainability.
 
-- 
 ### Senior Associate, Assurance & Advisory, PwC, Cyprus
-*2006 – 2010
+*2006 – 2010*
 - Participated in audits, operational and tax advisory across industries.
 
 ### Research Assistant (MSc Program), University of Cyprus – Faculty of Economics and Management
-*2004 – 2006
+*2004 – 2006*
 - Contributed to research on organizational structures and workplace dynamics.
 
 ## 🛠 Projects
