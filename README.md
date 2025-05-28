@@ -82,10 +82,10 @@ CV in Markdown
 - Provided strategic input on scaling and supported early-stage IoT project execution.
 
 ## 🎓 Education
-**MBA in Entrepreneurship and Strategy** - Warwick Business School, University of Warwick, 2017
-**MSc in Finance** - University of Cyprus, 2006
-**BSc in Economics with Business Economics** - Aristotle University of Thessaloniki (AUTH), 2004
-**Professional Certificate, Digital Marketing** - The Wharton School, The University of Pennsylvania, 2018
+**MBA in Entrepreneurship and Strategy** - Warwick Business School, University of Warwick, 2017**
+**MSc in Finance** - University of Cyprus, 2006**
+**BSc in Economics with Business Economics** - Aristotle University of Thessaloniki (AUTH), 2004**
+**Professional Certificate, Digital Marketing** - The Wharton School, The University of Pennsylvania, 2018**
 
 ## 📬 Contact
 - Email: savvasvasileiou1@gmail.com
