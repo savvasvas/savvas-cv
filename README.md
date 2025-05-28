@@ -5,12 +5,12 @@ CV in Markdown
 
 ## 🧑‍💼 Work Experience
 
-### Commercial Project Manager – Bird Aviation Lld, MRO PART.145, Cyprus
+### Commercial Project Manager – Bird Aviation, MRO PART.145, Cyprus
 *Oct 2023 – Present*
 - Optimized pricing and proposal processes using maintenance data and cost analysis.
 - Developed commercial SOPs and forecasting tools for operational decision-making.
 
-### Project Manager, CEO Office – Bird Aviation Lld, MRO PART.145, Cyprus
+### Project Manager, CEO Office – Bird Aviation, MRO PART.145, Cyprus
 *Aug 2022 – Oct 2023*
 - Led internal transformation initiatives and commercial projects with CEO oversight.
 - Delivered cross-functional improvements and managed profitability/project reporting.
@@ -82,13 +82,13 @@ CV in Markdown
 - Provided strategic input on scaling and supported early-stage IoT project execution.
 
 ## 🎓 Education
-**MBA in Entrepreneurship and Strategy** - Warwick Business School, University of Warwick, 2017
+**MBA in Entrepreneurship and Strategy** - Warwick Business School, University of Warwick, UK, 2017
 
 **MSc in Finance** - University of Cyprus, 2006
 
-**BSc in Economics with Business Economics** - Aristotle University of Thessaloniki (AUTH), 2004
+**BSc in Economics with Business Economics** - Aristotle University of Thessaloniki (AUTH), Greece, 2004
 
-**Professional Certificate, Digital Marketing** - The Wharton School, The University of Pennsylvania, 2018
+**Professional Certificate, Digital Marketing** - The Wharton School, The University of Pennsylvania, USA, 2018
 
 ## 📬 Contact
 - Email: savvasvasileiou1@gmail.com
