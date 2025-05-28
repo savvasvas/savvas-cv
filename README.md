@@ -89,6 +89,6 @@ CV in Markdown
 
 ## 📬 Contact
 - Email: savvasvasileiou1@gmail.com
-- GitHub: [github.com/savvasvas(https://github.com/savvasvas)
-- LinkedIn: [linkedin.com/in/savvas-vasileiou-17b06084](https://linkedin.com/in/savvas-vasileiou-17b06084)
+- GitHub: [github.com/savvasvas/savvas-cv(https://github.com/savvasvas/savvas-cv)
+- LinkedIn: linkedin.com/in/savvas-vasileiou-17b06084(https://linkedin.com/in/savvas-vasileiou-17b06084)
 
