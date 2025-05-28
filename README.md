@@ -75,7 +75,7 @@ CV in Markdown
 - Supported Series A growth by aligning creative output with commercial strategy.
 - Deployed cost control tools to enhance financial discipline and operational efficiency.
 
-### MBlupath Ltd, UK & Cyprus
+### Blupath Ltd, UK & Cyprus
 *Oct 2016 – May 2018*
 - Role: Planning & Organization, Industry: Tourism Tech
 - Advised the team on organizational planning, investor pitching, and go-to-market strategy for new revenue streams.
