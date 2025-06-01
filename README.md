@@ -60,8 +60,8 @@ CV in Markdown
 ## 🛠 Projects
 ### Mevian Medicare Ltd, Germany & Cyprus
 *Nov 2021 – Oct 2022*
-- Role: Ops & Growth, Industry: Pharmaceutical
-- Led venture creation from MVP to business formation, introduced lean workflows, aligned strategic priorities, and established scalable operational foundations.
+- Role: Ops & Growth, Industry: Pharmaceutical Manufacturing
+- Led venture creation from ideation, MVP to business formation, introduced lean workflows, aligned strategic priorities, and established scalable operational foundations.
 
 ### IFC Holding Ltd, Cyprus
 *Feb 2021 – May 2022*
@@ -86,7 +86,7 @@ CV in Markdown
 
 **MSc in Finance** - University of Cyprus, 2006
 
-**BSc in Economics with Business Economics** - Aristotle University of Thessaloniki (AUTH), Greece, 2004
+**BSc in Economics** - Aristotle University of Thessaloniki (AUTH), Greece, 2004
 
 **Professional Certificate, Digital Marketing** - The Wharton School, The University of Pennsylvania, USA, 2018
 
