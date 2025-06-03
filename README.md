@@ -33,9 +33,9 @@ CV in Markdown
 - Implemented analytics systems and agile workflows; contributed to company acquisition by Digital Tree.
 - Developed internal PlayBook and knowledge tools for innovation consistency.
 
-### Strategic Finance Analyst, Media, DeLeMa McCann, Cyprus
+### Rsearch, Strategy and Planning Analyst, Media, DeLeMa McCann, Cyprus
 *Aug 2017 – Jun 2018*
-- Built media investment models and worked cross-functionally to track campaign ROI and client finance.
+- Conducted audience and market research to inform cross-market media strategies and collaborated with strategy, innovation, and tech teams to improve real-time performance tracking across digital and traditional channels.
 
 ### Strategy Analyst / Associate, Delfi Partners & Co., Cyprus & Greece
 *2016 – 2017*
